@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Courses/index.html
+permalink: /courses/index.html
 title: Courses
 ---
 
