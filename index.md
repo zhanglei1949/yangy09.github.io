@@ -8,7 +8,8 @@ layout: page
 My name is Yang Yang.  I am an assistant professor in the Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 I am interested in developing machine learning-based algorithms and software for biological data analysis and biomedical information processing. 
 
-##Research Interests
+## Research Interests
+
 - Computational molecular biology
 
 We study computational problems regarding both protein-coding and non-coding genes. For coding genes, we predict subcellular localizations, type III secreted proteins and structual properties through sequence analysis and knowledge extraction from public databases.  
