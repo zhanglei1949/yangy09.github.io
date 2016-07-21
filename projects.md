@@ -12,6 +12,6 @@ title: Projects
 
 - "Identification of tumor metastasis biomarkers for early diagnosis and study on their functional mechanisms", Start-up Fund of Shanghai Jiao Tong University, 2014-2016
 
-- “Computational prediction of type III secreted effectors from gram-negative bacteria”, National Natural Science Foundation of China (Grant No. 61003093), 2011-2013
+- “Computational prediction of type III secreted effectors from gram-negative bacteria”, National Natural Science Foundation of China (No. 61003093), 2011-2013
 
 - “Study on the classification of biological sequences”, Science Foundation for The Excellent Youth Scholars of Shanghai Municipality, 2010-2012
