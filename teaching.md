@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /courses/index.html
-title: Courses
+permalink: /teaching/index.html
+title: Teaching
 ---
 
 ## Teaching Assignments
