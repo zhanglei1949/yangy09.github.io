@@ -13,7 +13,10 @@ layout: nil
       <loc>https://yangy09.github.io/experience/</loc>
     </url>
     <url>
-      <loc>https://yangy09.github.io/courses/</loc>
+      <loc>https://yangy09.github.io/teaching/</loc>
+    </url>
+    <url>
+      <loc>https://yangy09.github.io/projects/</loc>
     </url>
     {% comment %}
     {% for post in site.posts %}
