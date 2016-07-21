@@ -2,9 +2,7 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
----
-
-## Selected Publications
+pubs:
   - title: "Missing value imputation for microRNA expression data by using a GO-based similarity measure"
     author: "Yang Yang, Zhuangdi Xu and Dandan Song"
     journal: "BMC bioinformatics"
