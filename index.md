@@ -5,22 +5,15 @@ layout: page
 # About Me
 
 <img src="/images/yangyang.jpg" class="floatpic" width="200" height="250">
-My name is Yang Yang.  I am an assistant professor in the Department of Computer Science and Engineering, Shanghai Jiao Tong University.
-I am interested in developing machine learning-based algorithms and software for biological data analysis and biomedical information processing. 
+My name is Zhang Lei. I am now an undergraduate student in Shanghai Jiao Tong University, I major in Computer Sicence(IEEE Honor Class).
+I will graduate in the summer of 2018. I am interested in Computer Vision.
 
-## Research Interests
+## Projects
 
-- Computational molecular biology
+-Sybil Detection
 
-We study computational problems regarding both protein-coding and non-coding genes. For coding genes, we predict subcellular localizations, type III secreted proteins and structual properties through sequence analysis and knowledge extraction from public databases.  
-For non-coding genes, we focus on the identification of certain types of non-coding RNAs, and differential expression analysis for microRNAs with microarray or deep sequencing data.  
+Apllying Machine Learning methods(especially SVM), we detect sybil users which are paid for publish positive comments for certain shops. And we also find out that these sybil users are forms network.
 
+-Computer Go Player: Master Go
 
-- Biomedical information processing
-
-We design algorithms to screen tumor biomarkers efficiently and reliably. Now we are particularly interested in identifying microRNA biomarkers, and microRNA-disease associations.   
-
-
-- Machine learning and data mining
-
-We develop algorithms to deal with large scale, imbalanced and multi-label problems, mainly from the biomedical field.
+As the team leader, I and other three students built a computer go player based on Monte Carlo Tree Search whose name is Master Go. You can view the source code at https://github.com/zhanglei1949/master-go.
