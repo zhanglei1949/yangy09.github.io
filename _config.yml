@@ -7,7 +7,7 @@ url: https://zhanglei1949.github.io
 # Owner/author information
 owner:
   name:           zhanglei
-  avatar:         yangyang_head.jpg
+  avatar:         zhanglei.jpg
 #  bio:
   email:   zhanglei1949gqllz@gmail.com     
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -28,18 +28,18 @@ bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
+#  - title: Publications
+#    url: /publications/
+#  - title: Teaching
+#    url: /teaching/
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Teaching
-    url: /teaching/
   - title: Projects
     url: /projects/
   - title: Experience
     url: /experience/
-  - title: /hobby
+  - title: hobby
     url: /hooby/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
