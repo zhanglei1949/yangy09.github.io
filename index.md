@@ -10,10 +10,10 @@ I will graduate in the summer of 2018. I am interested in Computer Vision.
 
 ## Projects
 
--Sybil Detection
+- Sybil Detection
 
 Apllying Machine Learning methods(especially SVM), we detect sybil users which are paid for publish positive comments for certain shops. And we also find out that these sybil users are forms network.
 
--Computer Go Player: Master Go
+- Computer Go Player: Master Go
 
 As the team leader, I and other three students built a computer go player based on Monte Carlo Tree Search whose name is Master Go. You can view the source code at https://github.com/zhanglei1949/master-go.
