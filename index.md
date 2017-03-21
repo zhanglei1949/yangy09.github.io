@@ -6,9 +6,7 @@ layout: page
 
 <img src="/images/zhanglei.jpg" class="floatpic" width="200" height="250">
 My name is Zhang Lei. I am now an undergraduate student in Shanghai Jiao Tong University, I major in Computer Sicence(IEEE Honor Class).
-
 I will graduate in the summer of 2018. I am interested in Computer Vision and mobile phone security.
-
 I am a sports fan, I play basketball, football and I also enjoy running. I am also intersted in history, especially in history of Germany.
 
 ## Projects

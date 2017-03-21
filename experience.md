@@ -6,15 +6,12 @@ title: Experience
 
 ## Education Background
 
-- Shanghai Jiao Tong University, Shanghai, P. R. China (2003-2009: PhD)
-- University of California, Riverside, CA, USA (2007-2009: Visiting PhD student)
-- Shanghai Jiao Tong University, Shanghai, P. R. China (1999-2003: BS)
+- Shanghai Jiao Tong University, Shanghai, P. R. China (2014-Present: BS), expect in 2018
+-- Major in Computer Science(IEEE Honor Class)
+## Experience
 
-## Employment History
- 
-- Assistant Professor, Dept. of Computer Science, Shanghai Jiao Tong Univ.(2014-)
-- Research Associate, Dept. of Computer Science, University of California, Riverside (2012-2013)
-- Assistant & Associate Professor, Dept. of Computer Science, Shanghai Maritime Univ. (2009-2013)
+- Member of Student Management Committee of Shanghai Jiao Tong University Library(2014 - Present)
+- Member of Student Sevice Team of Party and Administration Office (2015-Present)
 
 
 
